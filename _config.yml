@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               bootMode
+tagline:             
+url:                 bootmo.de
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Victor Niu
+  url:               victorniu.com
+  email:             bniu2@illinois.edu
 
 # Custom vars
-version:             2.0.0
+version:             0.1.1
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/developermode/bootmode
 
 # Gems
 gems:
