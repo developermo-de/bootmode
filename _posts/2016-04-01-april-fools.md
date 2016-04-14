@@ -1,6 +1,8 @@
 ---
 layout: post
 title: April Fools!
+author: root
+catagory: daily
 ---
 
 Hi. 
