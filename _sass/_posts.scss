@@ -16,7 +16,7 @@
 .page-title,
 .post-title,
 .post-title a {
-  color: $base00;
+  color: $base0;
 }
 .page-title,
 .post-title {
@@ -64,4 +64,9 @@
       }
     }
   }
+}
+
+ul li{
+   display: inline;
+
 }

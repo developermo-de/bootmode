@@ -40,6 +40,7 @@ a {
   &:hover,
   &:focus {
     text-decoration: underline;
+    color: $red;
   }
 
   strong {
@@ -75,4 +76,22 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: $body-bg;
+}
+
+.header-ascii {
+  display: block;
+  unicode-bidi: embed;
+  font-family:monospace;
+  white-space:pre;                     
+}
+
+ul li{
+   display: inline;
+}
+
+ul {
+   padding-top: 0;
+   padding-left: 0;
+   margin-left: 0;
+
 }
