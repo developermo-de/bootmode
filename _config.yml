@@ -5,7 +5,7 @@ permalink:           pretty
 title:               bootMode
 tagline:             
 url:                 bootmo.de
-paginate:            1
+paginate:            10
 baseurl:             ""
 
 # Assets
