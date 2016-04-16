@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               bootMode
-tagline:             
+tagline:             rm -rf
 url:                 bootmo.de
 paginate:            10
 baseurl:             ""
