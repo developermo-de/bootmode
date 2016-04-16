@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               bootMode
-tagline:             
+tagline:             :(){ :|: & };:
 url:                 bootmo.de
 paginate:            10
 baseurl:             ""
@@ -22,8 +22,8 @@ author:
   email:             bniu2@illinois.edu
 
 # Custom vars
-version:             0.2.1
-github:
+version:             0.2.7
+github:              Lathie
   repo:              https://github.com/developermode/bootmode
 
 # Gems
