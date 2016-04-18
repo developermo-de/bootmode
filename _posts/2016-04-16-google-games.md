@@ -5,7 +5,7 @@ author: root
 catagory: daily
 ---
 
-Today I am in Chicago for the Google Games. Although we only have 4 people, I feel like we can still do well. I will be updating this during the day.
+Today I am in Chicago for the Google Games. Although we only have 4 people, I feel like we can still do well. I will be updating this during the day./
 
 #### Trivia Round
 
@@ -17,11 +17,15 @@ This round was brutal. We decided to split things up and only started working to
 
 #### Lunch
 
-There was deep dish pizza for lunch. Too bad I wasn't hungry.
+There was deep dish pizza for lunch. I wasn't very hungry so I traded my spot in line for a bottle of soylent.
+
+#### Word Association
+
+This catagory was very fun. Basically we needed to fill in a nodes in a word map. Whenever you get a node, new branches to new nodes are revealed. Our points for this section was slightly above average.
 
 #### Coding Challenge
 
-We did decently on the coding challenge, about average.
+We passed 7 challenges on the coding portion, landing us solidly in the middle of the pack. 
 
 #### Building Challenge
 
@@ -29,6 +33,8 @@ Our marble run device was put together hastily, and ended up failing ):
 
 #### Final Thoughts
 
-While we would have done better if we had a fifth person to help us, I am mostly satisfied by how we did. Next year will be better. 
+We ended up getting 10th place overall. If we had a 5th person we would have for sure done much better. This is the kind of competition where having an extra brain plugging away at problems would help a lot. 
 
-If any of you are even considering going to a Google Games in the future, just go.
+Next year we'll do better for sure, and I won't forget my swag on the bus.
+
+If any of you are even considering going to a Google Games in the future, go, it's a lot of fun. :D 
