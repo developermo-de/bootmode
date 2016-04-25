@@ -29,12 +29,12 @@ We passed 7 challenges on the coding portion, landing us solidly in the middle o
 
 #### Building Challenge
 
-Our marble run device was put together hastily, and ended up failing ):
+Our marble run device was put together hastily, and ended up failing ): We tried to make a very gentle sloped run, but what we didn't count on is how inprecise straws are as a building material, as well as how hard taping things together was. Some interesting designs I saw includinga funnel with straws stuck through to slow the marble down, as well as a half pipe that let the marble roll into the cup when it ran out of momentum.
 
 #### Final Thoughts
 
 We ended up getting 10th place overall. If we had a 5th person we would have for sure done much better. This is the kind of competition where having an extra brain plugging away at problems would help a lot. 
 
-Next year we'll do better for sure, and I won't forget my swag on the bus.
+Next year we'll do better for sure, and I won't forget my swag on the bus. 
 
 If any of you are even considering going to a Google Games in the future, go, it's a lot of fun. :D 

@@ -18,11 +18,11 @@ sass:
 # About/contact
 author:
   name:              Victor Niu
-  url:               victorniu.com
+  url:               http://reallybad.site
   email:             bniu2@illinois.edu
 
 # Custom vars
-version:             0.2.1
+version:             0.3.1
 github:
   repo:              https://github.com/developermode/bootmode
 
